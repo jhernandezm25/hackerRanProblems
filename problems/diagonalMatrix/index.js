@@ -15,7 +15,5 @@ function flippingMatrix(matrix) {
         total += max;
       }
     }
-  
-    console.log('max',total)
     return total;
   }
