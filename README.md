@@ -1,2 +1,2 @@
-# hackerRanProblems
+# hackerRankProblems
 Problems solved
